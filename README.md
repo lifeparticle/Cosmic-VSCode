@@ -3,6 +3,8 @@
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+- https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
+- https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
 # 2. User and workspace settings
 

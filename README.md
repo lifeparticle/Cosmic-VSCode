@@ -1,10 +1,11 @@
 # 1. Extensions
 
-- https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-- https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
-- https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
-- https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
-- https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+- [Prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [Quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+- [Auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
 # 2. User and workspace settings
 

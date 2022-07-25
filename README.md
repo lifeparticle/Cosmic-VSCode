@@ -37,5 +37,9 @@
 }
 ```
 
-# 3. Resources
+# 3. keyboard shortcuts
+
+- `cmd + shift + p` -> Reload window
+
+# 4. Resources
 - https://code.visualstudio.com/docs/getstarted/settings

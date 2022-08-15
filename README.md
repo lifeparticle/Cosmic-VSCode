@@ -69,3 +69,4 @@ Or
 # 4. Resources
 - https://code.visualstudio.com/docs/getstarted/settings
 - https://code.visualstudio.com/docs/getstarted/tips-and-tricks
+- https://code.visualstudio.com/docs/editor/userdefinedsnippets

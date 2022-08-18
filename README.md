@@ -8,6 +8,10 @@
 - [Quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - [Auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+```
+1. Open preview to the Side: ctrl + k  v (Windows) or cmd + k  v (Mac)
+2. Open preview: ctrl + shift + v (Windows) or cmd + shift + v (Mac)
+```
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
 ```
 1. Select the variable you want to debug

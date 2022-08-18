@@ -13,6 +13,11 @@
 1. Select the variable you want to debug
 2. ctrl + alt + L (Windows) or ctrl + option + L (Mac)
  ```
+ - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+ ```
+ 1. Issues are highlighted in your code
+ 2. Issues are listed in the 'Problems' panel.
+ ```
 
 # 2. User and workspace settings
 

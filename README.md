@@ -79,6 +79,9 @@ Or
 | Select blocks of text                           | `shift + alt` -> Windows, `shift + option` -> macOS         |
 | Move line up and down                           | `alt + up` or `alt + down`                                  |
 | Copy line up and down                           | `shift + alt + up` or `shift + alt + down`                  |
+| Split Editor	                                  | `ctrl + \`                                                  |
+| Close Editor	                                  | `ctrl + w`                                                  |
+| Save All	                                  | `ctrl + k s`                                                |
 
 # Snippets
 
@@ -91,3 +94,4 @@ Select User Snippets under `File > Preferences` on Windows and `Code > Preferenc
 - https://code.visualstudio.com/docs/getstarted/settings
 - https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 - https://code.visualstudio.com/docs/editor/userdefinedsnippets
+- https://code.visualstudio.com/docs/getstarted/keybindings

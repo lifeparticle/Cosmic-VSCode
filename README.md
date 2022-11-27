@@ -74,7 +74,7 @@ Or
 | Switch between editors                          | `ctrl + 1`, `ctrl + 2`                                      |
 | Multi cursor selection                          | `alt + click` -> Windows, `option + click` -> macOS         |
 | Set cursors above or below the current position | `ctrl + alt + up` or `ctrl + alt + down`                    |
-| Select all occurrences of the current selection | `ctrl + shift + l`                                          |
+| Select all occurrences of the current selection | `ctrl + shift + l` -> Windows `cmd + shift + l` -> macOS    |
 | Select next occurrences of the current selection| `ctrl + d`                                                  |
 | Select blocks of text                           | `shift + alt` -> Windows, `shift + option` -> macOS         |
 | Move line up and down                           | `alt + up` or `alt + down`                                  |

@@ -63,27 +63,32 @@ Or
 ```
 
 # 3. keyboard shortcuts
+| Description                                      | Keyboard Shortcut - Windows                    | Keyboard Shortcut - Mac                            |
+| ------------------------------------------------ | ---------------------------------------------- | -------------------------------------------------- |
+| Type Reload window                               | `ctrl + shift + p`                             | `cmd + shift + p`                                  |
+| Open recent folders and workspaces               | `ctrl + r`                                     |                                                    |
+| Quickly open files                               | `ctrl + p`                                     | `cmd + p`                                          |
+| Zen modes                                        | `ctrl + k z`                                   |                                                    |
+| Toggle Panel                                     | `ctrl + j`                                     |                                                    |
+| Toggle sidebar                                   | `ctrl + b`                                     |                                                    |
+| Side by side editing                             | `ctrl + \`                                     |                                                    |
+| Switch between editors                           | `ctrl + 1`, `ctrl + 2`                         |                                                    |
+| Multi cursor selection                           | `alt + click`                                  | `option + click`                                   |
+| Set cursors above or below the current position  | `ctrl + alt + up` or `ctrl + alt + down`       | `cmd + option + up` or `cmd + option + down`       |
+| Select all occurrences of the current selection  | `ctrl + shift + l`                             | `cmd + shift + l`                                  |
+| Select next occurrences of the current selection | `ctrl + d`                                     | `cmd + d`                                          |
+| Undo ext occurrences of the current selection    | `ctrl + u`                                     | `cmd + u`                                          |
+| Select blocks of text                            | `shift + alt`                                  | `shift + option`                                   |
+| Move cursor by words                             | `ctrl + left` or `ctrl + right`                | `option + left` or `option + right`                |
+| Select words                                     | `ctrl + shift + left` or `ctrl + shift + right`| `option + shift + left` or `option + shift + right`|
+| Move line up and down                            | `alt + up` or `alt + down`                     |                                                    |
+| Copy line up and down                            | `shift + alt + up` or `shift + alt + down`     |                                                    |
+| Split Editor                                     | `ctrl + \`                                     |                                                    |
+| Close Editor                                     | `ctrl + w`                                     |                                                    |
+| Save All                                         | `ctrl + k s`                                   |                                                    |
 
-|Description | Keyboard Shortut |
-| -----------|------------------|
-| Type Reload window                              | `ctrl + shift + p` -> Windows `cmd + shift + p` -> macOS    |
-| Open recent folders and workspaces              | `ctrl + r`                                                  |
-| Quickly open files                              | `ctrl + p` -> Windows  `cmd + p` -> macOS                   |
-| Zen modes                                       | `ctrl + k z`                                                |
-| Toggle Panel                                    | `ctrl + j`                                                  |
-| Toggle sidebar                                  | `ctrl + b`                                                  |
-| Side by side editing                            | `ctrl + \`                                                  |
-| Switch between editors                          | `ctrl + 1`, `ctrl + 2`                                      |
-| Multi cursor selection                          | `alt + click` -> Windows, `option + click` -> macOS         |
-| Set cursors above or below the current position | `ctrl + alt + up` or `ctrl + alt + down`                    |
-| Select all occurrences of the current selection | `ctrl + shift + l` -> Windows `cmd + shift + l` -> macOS    |
-| Select next occurrences of the current selection| `ctrl + d`                                                  |
-| Select blocks of text                           | `shift + alt` -> Windows, `shift + option` -> macOS         |
-| Move line up and down                           | `alt + up` or `alt + down`                                  |
-| Copy line up and down                           | `shift + alt + up` or `shift + alt + down`                  |
-| Split Editor	                                  | `ctrl + \`                                                  |
-| Close Editor	                                  | `ctrl + w`                                                  |
-| Save All	                                  | `ctrl + k s`                                                |
+
+
 
 # Snippets
 

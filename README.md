@@ -86,8 +86,8 @@ Or
 | Split Editor                                     | `ctrl + \`                                     |                                                    |
 | Close Editor                                     | `ctrl + w`                                     |                                                    |
 | Save All                                         | `ctrl + k s`                                   |                                                    |
-
-
+| Editor focus                                     | `ctrl + 1`                                     | `cmd + 1`                                          |
+| Sidebar focus                                    | `ctrl + 0`                                     | `cmd + 0`                                          |
 
 
 # Snippets

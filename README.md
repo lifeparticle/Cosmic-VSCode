@@ -9,6 +9,7 @@
 - [Auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [Console-ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
+- [Errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 ```
 1. Open preview to the Side: ctrl + k  v (Windows) or cmd + k  v (Mac)

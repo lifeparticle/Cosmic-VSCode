@@ -1,15 +1,25 @@
 # 1. Extensions
 
+## Code quality
 - [Prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
-- [Material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [Vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-- [Quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-- [Auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+- [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+
+## Debug
 - [Console-ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
 - [Errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
+## Editor
+- [Material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+## Automation
+- [Auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+## Others
+- [Vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [Quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions)
 
 ```

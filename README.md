@@ -10,6 +10,7 @@
 |                  | [Errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)                                |
 | **Editor**       | [Material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)                 |
 | **Automation**   | [Auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)                 |
+|                  | [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)                                 |
 | **Others**       | [Vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)                     |
 |                  | [Quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)                         |
 |                  | [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) |

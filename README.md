@@ -8,6 +8,7 @@
 |                  | [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)                        |
 | **Debug**        | [Console-ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)                         |
 |                  | [Errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)                                |
+|                  | [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)             |
 | **Editor**       | [Material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)                 |
 | **Automation**   | [Auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)                 |
 |                  | [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)                                 |
@@ -17,6 +18,7 @@
 |                  | [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions)                   |
 |                  | [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)                             |
 |                  | [Git File History](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)                      |
+|                  | [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)                           |
 | **Performance**  | [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)                            |
 
 ```

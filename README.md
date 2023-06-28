@@ -16,6 +16,7 @@
 |                  | [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) |
 |                  | [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions)                   |
 |                  | [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)                             |
+|                  | [Git File History](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)                      |
 | **Performance**  | [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)                            |
 
 ```

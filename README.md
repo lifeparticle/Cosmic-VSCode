@@ -9,6 +9,7 @@
 | **Debug**        | [Console-ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)                         |
 |                  | [Errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)                                |
 |                  | [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)             |
+|                  | [Total TypeScript](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)               |
 | **Editor**       | [Material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)                 |
 | **Automation**   | [Auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)                 |
 |                  | [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)                                 |

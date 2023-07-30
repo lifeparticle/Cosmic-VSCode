@@ -108,6 +108,14 @@ Select User Snippets under `File > Preferences` on Windows and `Code > Preferenc
 
 ![image](https://user-images.githubusercontent.com/1612112/186821015-15f96630-7b2f-49d7-9d56-8db9fba13931.png)
 
+# Launching from the command line
+
+## macOs
+
+1. Launch VS Code
+2. Open the Command Palette (Cmd+Shift+P)
+3. Type 'shell command' 
+4. Select `Shell Install 'code' command in PATH` command
 
 # 4. Resources
 - https://code.visualstudio.com/docs/getstarted/settings

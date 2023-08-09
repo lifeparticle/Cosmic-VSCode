@@ -1,27 +1,5 @@
 # 1. Extensions
 
-| Category         | Extension                                                                                                            |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Code Quality** | [Prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)                        |
-|                  | [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)                                 |
-|                  | [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)                          |
-|                  | [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)                        |
-| **Debug**        | [Console-ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)                         |
-|                  | [Errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)                                |
-|                  | [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)             |
-|                  | [Total TypeScript](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)               |
-| **Editor**       | [Material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)                 |
-| **Automation**   | [Auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)                 |
-|                  | [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)                                 |
-| **Others**       | [Vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)                     |
-|                  | [Quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)                         |
-|                  | [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) |
-|                  | [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=github.vscode-github-actions)                   |
-|                  | [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)                             |
-|                  | [Git File History](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)                      |
-|                  | [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)                           |
-| **Performance**  | [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)                            |
-
 ```
 1. Open preview to the Side: ctrl + k  v (Windows) or cmd + k  v (Mac)
 2. Open preview: ctrl + shift + v (Windows) or cmd + shift + v (Mac)

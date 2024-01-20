@@ -100,3 +100,4 @@ Select User Snippets under `File > Preferences` on Windows and `Code > Preferenc
 - https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 - https://code.visualstudio.com/docs/editor/userdefinedsnippets
 - https://code.visualstudio.com/docs/getstarted/keybindings
+- https://code.visualstudio.com/docs/editor/emmet

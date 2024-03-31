@@ -86,6 +86,12 @@ Select User Snippets under `File > Preferences` on Windows and `Code > Preferenc
 
 ![image](https://user-images.githubusercontent.com/1612112/186821015-15f96630-7b2f-49d7-9d56-8db9fba13931.png)
 
+# Tips
+
+<img width="1199" alt="Screen Shot 2024-03-31 at 11 48 03 pm" src="https://github.com/lifeparticle/Cosmic-VSCode/assets/1612112/ac7d926b-3897-4064-a8ae-018273b15cca">
+
+`"explorer.compactFolders": false`
+
 # Launching from the command line
 
 ## macOs

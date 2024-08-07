@@ -92,7 +92,7 @@ Select User Snippets under `File > Preferences` on Windows and `Code > Preferenc
 
 `"explorer.compactFolders": false`
 
-![Uploading Screenshot 2024-08-07 at 7.20.43 PM.png…]()
+<img width="908" alt="Screenshot 2024-08-07 at 7 20 43 PM" src="https://github.com/user-attachments/assets/1e1e4045-2818-492d-b7d8-5cb79de24f98">
 
 
 

@@ -92,6 +92,10 @@ Select User Snippets under `File > Preferences` on Windows and `Code > Preferenc
 
 `"explorer.compactFolders": false`
 
+![Uploading Screenshot 2024-08-07 at 7.20.43 PM.png…]()
+
+
+
 # Launching from the command line
 
 ## macOs
@@ -108,3 +112,4 @@ Select User Snippets under `File > Preferences` on Windows and `Code > Preferenc
 - https://code.visualstudio.com/docs/getstarted/keybindings
 - https://code.visualstudio.com/docs/editor/emmet
 - https://code.visualstudio.com/docs/languages/jsconfig
+- https://www.youtube.com/watch?v=LyNEHVzJ24U
